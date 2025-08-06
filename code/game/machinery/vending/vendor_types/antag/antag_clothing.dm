@@ -229,6 +229,7 @@ GLOBAL_LIST_INIT(cm_vending_clothing_synth_upp, list(
 	list("Scarf (Black)", 12, /obj/item/clothing/mask/tornscarf/black, null, VENDOR_ITEM_REGULAR),
 
 	list("SUIT", 0, null, null, null),
+	list("UL6	Synthetic	personal	armor",	60,	/obj/item/clothing/suit/storage/marine/faction/UPP/support/synth,	null,	VENDOR_ITEM_REGULAR),
 	list("Bomber Jacket, Brown", 12, /obj/item/clothing/suit/storage/bomber, null, VENDOR_ITEM_REGULAR),
 	list("Bomber Jacket, Black", 12, /obj/item/clothing/suit/storage/bomber/alt, null, VENDOR_ITEM_REGULAR),
 	list("External Webbing", 12, /obj/item/clothing/suit/storage/webbing, null, VENDOR_ITEM_REGULAR),
